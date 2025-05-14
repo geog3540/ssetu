@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\sanzi\\source\\repos\\ssetu\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sanzi\\source\\repos\\ssetu\\flowmap.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:flowmap.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sanzi\\source\\repos\\ssetu\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sanzi\\source\\repos\\ssetu\\FinalProject.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FinalProject.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sanzi\\source\\repos\\ssetu\\shortbio.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shortbio.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sanzi\\source\\repos\\ssetu\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
@@ -14,16 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "shortbio.html",
+              "DocumentMoniker": "C:\\Users\\sanzi\\source\\repos\\ssetu\\shortbio.html",
+              "RelativeDocumentMoniker": "shortbio.html",
+              "ToolTip": "C:\\Users\\sanzi\\source\\repos\\ssetu\\shortbio.html",
+              "RelativeToolTip": "shortbio.html",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE0AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-12T05:35:14.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\sanzi\\source\\repos\\ssetu\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\sanzi\\source\\repos\\ssetu\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAuwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-12T02:43:31.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "flowmap.html",
+              "DocumentMoniker": "C:\\Users\\sanzi\\source\\repos\\ssetu\\flowmap.html",
+              "RelativeDocumentMoniker": "flowmap.html",
+              "ToolTip": "C:\\Users\\sanzi\\source\\repos\\ssetu\\flowmap.html",
+              "RelativeToolTip": "flowmap.html",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-12T02:28:05.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FinalProject.html",
+              "DocumentMoniker": "C:\\Users\\sanzi\\source\\repos\\ssetu\\FinalProject.html",
+              "RelativeDocumentMoniker": "FinalProject.html",
+              "ToolTip": "C:\\Users\\sanzi\\source\\repos\\ssetu\\FinalProject.html",
+              "RelativeToolTip": "FinalProject.html",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAHkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-12T02:26:55.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\sanzi\\source\\repos\\ssetu\\README.md",
               "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\sanzi\\source\\repos\\ssetu\\README.md*",
-              "RelativeToolTip": "README.md*",
+              "ToolTip": "C:\\Users\\sanzi\\source\\repos\\ssetu\\README.md",
+              "RelativeToolTip": "README.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-05-01T18:11:51.983Z",
